@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bill-calculator/static/css/main.d6f2cb24.css",
+    "main.js": "/bill-calculator/static/js/main.092e202d.js",
+    "index.html": "/bill-calculator/index.html",
+    "main.d6f2cb24.css.map": "/bill-calculator/static/css/main.d6f2cb24.css.map",
+    "main.092e202d.js.map": "/bill-calculator/static/js/main.092e202d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6f2cb24.css",
+    "static/js/main.092e202d.js"
+  ]
+}
